@@ -1,0 +1,8 @@
+*.env
+__pycahce__/
+.pyc
+
+# Ignore system hidden files 
+.DS_score
+
+
